@@ -1,0 +1,22 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "this is my first time to write code in github,it is a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjc9915/HelloWorld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjc9915/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/zjc9915/HelloWorld#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
